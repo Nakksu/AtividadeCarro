@@ -4,7 +4,7 @@ public class Main {
 
         carro.setCombustivel(20);
         carro.setMarca("Fiat");
-        carro.setPeso(90);
+        carro.setPeso(900);
         carro.setAnoFabricacao(2015);
         carro.setCor("Azul");
         carro.setPlaca("MDR995");
